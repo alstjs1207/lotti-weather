@@ -18,7 +18,7 @@ const weatherOptions = {
     subtitle: "Is like rain, but gay 🏳️‍🌈"
   },
   Rain: {
-    iconName: "weather-rainy",
+    iconName: "weather-pouring",
     gradient: ["#00C6FB", "#005BEA"],
     title: "비",
     subtitle: "For more info look outside"
